@@ -1,7 +1,7 @@
 "use client";
 
 export default function WhatsappShareButton() {
-  const shareUrl = "https://node-og-card.netlify.app/car";
+  const shareUrl = "https://node-og-card.vercel.app/car";
   const message = `Check this out 🚗 ${shareUrl}`;
 
   const handleShare = () => {

@@ -11,11 +11,11 @@ export const metadata: Metadata = {
     title: "Car",
     description:
       "Cars are one of the most important modes of transportation in modern life. They provide comfort, speed, and convenience for daily travel. Cars are used for personal, commercial, and emergency purposes. With advancing technology, cars are becoming safer, smarter, and more eco-friendly.",
-    url: "https://node-og-card.netlify.app/car" ,
+    url: "https://node-og-card.vercel.app/car",
     siteName: "Car Info",
     images: [
       {
-        url: "https://node-og-card.netlify.app/car" ,
+        url: "https://node-og-card.vercel.app/social-card.jpg",
         width: 1200,
         height: 630,
         alt: "Car",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     title: "Car",
     description:
       "Cars are one of the most important modes of transportation in modern life. They provide comfort, speed, and convenience for daily travel. Cars are used for personal, commercial, and emergency purposes. With advancing technology, cars are becoming safer, smarter, and more eco-friendly.",
-    images: ["https://YOUR-NETLIFY-DOMAIN.netlify.app/social-card.jpg"],
+    images: ["https://node-og-card.vercel.app/social-card.jpg"],
   },
 };
 

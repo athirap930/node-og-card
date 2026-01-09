@@ -1,7 +1,7 @@
 "use client";
 
 export default function WhatsappShareButton() {
-  const url = "https://node-og-card.vercel.app/car";
+  const url = "https://og-card.vercel.app/car";
   const text =
     "Car – Cars are one of the most important modes of transportation in modern life.";
 
